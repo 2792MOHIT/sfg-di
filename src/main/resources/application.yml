@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: JMS Username
+    password: somepass
+    url: jmsurl
+
+---
+spring:
+  profiles: ES
+guru:
+  jms:
+    username: JMS Username ** in spanish *****
